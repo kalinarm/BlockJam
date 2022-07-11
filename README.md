@@ -4,7 +4,7 @@ The game is published [here](https://kalinka.itch.io/genetic-koonies)
 
 # For judges
 
-The code & content created for this Jam is located in Assets/Evolution
+The code & content created for this Jam is located in [Assets/Evolution](https://github.com/kalinarm/BlockJam/tree/master/Assets/Evolution)
 
 For the web3 implementation, look at [Assets/Evolution/Scripts/Web3/](https://github.com/kalinarm/BlockJam/tree/master/Assets/Evolution/Scripts/Web3)
 
