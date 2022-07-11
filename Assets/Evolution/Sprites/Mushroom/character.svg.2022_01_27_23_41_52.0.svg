@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="character.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-393.06193"
+     inkscape:cy="896.13242"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4343"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\border_fur.png"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4335"
+         d="m -1070,32.362205 c 0,-35.0000003 40,-55 85,-45 45,9.9999997 70,40 60,65 -10,25 -5,59.999995 -45,74.999995 -40,15 -100,-94.999995 -100,-94.999995"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path4337"
+         d="m -1045,-7.6377953 c -40,-14.9999997 -75,-24.9999997 -90,-4.9999997 -15,19.9999997 -50,35 -35,75 15,39.999995 35,74.999995 35,74.999995"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4339"
+         d="m -1160,87.362205 c -25,49.999995 -35,84.999995 -15,104.999995 20,20 75,25 90,15 15,-10 35,-25 35,-25"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4341"
+         d="m -950,117.3622 c 0,0 60,60 25,80 -35,20 -70,50 -90,25 -20,-25 -50,-30 -50,-30"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138"
+       width="160"
+       height="160"
+       x="-1134.2858"
+       y="20.933634"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1109.2857,55.933628 0,35 45,0 0,-15 c 0,0 -45,0 -45,-20 z"
+       id="path4140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1099.2857,140.93363 90,0 -15,0 -10,10 -40,0 -10,-10 -15,0"
+       id="path4144"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4146"
+       d="m -998.28571,55.933628 0,35 -44.99999,0 0,-15 c 0,0 44.99999,0 44.99999,-20 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4148"
+       cx="-1089.2858"
+       cy="85.933624"
+       r="5"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <circle
+       inkscape:export-ydpi="235"
+       inkscape:export-xdpi="235"
+       r="5"
+       cy="85.933624"
+       cx="-1019.2857"
+       id="circle4150"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -519.53571,89.959364 90,0 -15,0 -10,10 -40,0 -10,-10 -15,0"
+       id="path4144-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <path
+       inkscape:export-ydpi="235"
+       inkscape:export-xdpi="235"
+       inkscape:connector-curvature="0"
+       id="path4167"
+       d="m -517.39285,127.10222 90,0 -15,0 -0.15101,20.10153 -4.09556,-15.3334 -49.85015,-0.0858 -5.75227,15.16662 -0.15101,-19.84899 -15,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\mouth2.png" />
+    <g
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4199"
+       transform="translate(-94.285714,-71.428572)">
+      <path
+         sodipodi:nodetypes="cscc"
+         inkscape:connector-curvature="0"
+         id="path4195"
+         d="m -910,102.3622 c 0,-29.999995 55,-54.999995 60,-74.999995 5,-20.0000003 0,84.999995 -45,84.999995 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -909.82143,102.18363 c 0,-29.999997 55,-54.999997 60,-74.999997 5,-19.9999998 0,84.999997 -45,84.999997"
+         id="path4197"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4203"
+       transform="matrix(-1,0,0,1,-2012.3667,-71.428572)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -910,102.3622 c 0,-29.999995 55,-54.999995 60,-74.999995 5,-20.0000003 0,84.999995 -45,84.999995 z"
+         id="path4205"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4207"
+         d="m -909.82143,102.18363 c 0,-29.999997 55,-54.999997 60,-74.999997 5,-19.9999998 0,84.999997 -45,84.999997"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4146-8"
+       d="m -311.58666,117.09171 0,35 -45,0 0,-15 c 0,0 45,0 45,-20 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <path
+       inkscape:export-ydpi="235"
+       inkscape:export-xdpi="235"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -311.46039,72.13992 0,35 -45,0 0,-15 c 0,0 10.03182,-14.77772 45,-20 z"
+       id="path4232"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\eye2.png" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4234"
+       d="m -311.58666,27.188132 0,35 -45,0 0,-15 c 0,0 15.15809,-4.825927 45,-20 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\eye3.png" />
+    <path
+       inkscape:export-ydpi="235"
+       inkscape:export-xdpi="235"
+       inkscape:connector-curvature="0"
+       id="path4236"
+       d="m -517.64539,42.161701 90,0 c 0.50253,5.2005 0.50253,10.2005 -25,10 l -40,0 c -24.49747,0.2005 -24.49747,-4.7995 -25,-10"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\mouth3.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-527.14282"
+       y="8.0764942"
+       id="text4238"><tspan
+         sodipodi:role="line"
+         id="tspan4240"
+         x="-527.14282"
+         y="8.0764942"
+         style="font-size:35px;line-height:1.25">mouth</tspan></text>
+    <text
+       id="text4242"
+       y="4.5050654"
+       x="-364.28568"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:35px;line-height:1.25"
+         y="4.5050654"
+         x="-364.28568"
+         sodipodi:role="line"
+         id="tspan4248">eye</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-211.42856"
+       y="5.9336429"
+       id="text4238-9"><tspan
+         sodipodi:role="line"
+         id="tspan4240-7"
+         x="-211.42856"
+         y="5.9336429"
+         style="font-size:35px;line-height:1.25">border</tspan></text>
+    <g
+       inkscape:export-ydpi="235"
+       inkscape:export-xdpi="235"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\border_pic.png"
+       id="g4272"
+       transform="translate(805,-35)">
+      <g
+         id="g4274">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1040,252.36221 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 -160,0"
+           id="path4276"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4278"
+           d="m -1040,92.362205 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 -160,0"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4280"
+         transform="matrix(0,1,-1,0,-787.63779,1132.3622)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4282"
+           d="m -1040,252.36221 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 -160,0"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1040,92.362205 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 10,-20 10,20 -160,0"
+           id="path4284"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       id="text4292"
+       y="4.5050654"
+       x="-686.42853"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:35px;line-height:1.25"
+         y="4.5050654"
+         x="-686.42853"
+         sodipodi:role="line"
+         id="tspan4296">ear</tspan></text>
+    <g
+       id="g4327"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\ear.png"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235">
+      <g
+         id="g4199-3"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(214.28571,-2.1428472)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -910,102.3622 c 0,-29.999995 55,-54.999995 60,-74.999995 5,-20.0000003 0,84.999995 -45,84.999995 z"
+           id="path4195-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscc" />
+        <path
+           sodipodi:nodetypes="csc"
+           inkscape:connector-curvature="0"
+           id="path4197-3"
+           d="m -909.82143,102.18363 c 0,-29.999997 55,-54.999997 60,-74.999997 5,-19.9999998 0,84.999997 -45,84.999997"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4321"
+         d="m -645,52.362205 c -10,10 -40,25 -40,45"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:export-ydpi="235"
+       inkscape:export-xdpi="235"
+       inkscape:connector-curvature="0"
+       id="path4349"
+       d="m -517.5154,176.32741 90,0 -37.5,0.17857 0,10.71429 -15,0 0,-10.89286 -37.5,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\mouth4.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -472.57144,177.3622 0,10"
+       id="path4355"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\mouth4.png"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235" />
+    <g
+       id="g4373"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\ear2.png"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -697.48206,201.48714 c 0,-29.99999 40.35279,-18.88704 45.35279,-38.88704 5,-20 14.64721,48.88704 -30.35279,48.88704 z"
+         id="path4361"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4363"
+         d="m -697.30349,201.30857 c 0,-29.99999 39.84771,-18.38196 44.84771,-38.38196 5,-20 15.15229,48.38196 -29.84771,48.38196"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -661.92006,183.68203 c -10,10 -24.84771,-5.05204 -24.84771,14.94796"
+         id="path4365"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(901.4286,329.99998)"
+       id="g4343-8"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\Projects\CryptoPolitics\Assets\Genetic\sprite\border_fur.png"
+       inkscape:export-xdpi="235"
+       inkscape:export-ydpi="235">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4335-7"
+         d="m -1070,32.362205 c 0,-35.0000003 40,-55 85,-45 45,9.9999997 70,40 60,65 -10,25 -5,59.999995 -45,74.999995 -40,15 -100,-94.999995 -100,-94.999995"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path4337-8"
+         d="m -1045,-7.6377953 c -40,-14.9999997 -75,-24.9999997 -90,-4.9999997 -15,19.9999997 -50,35 -35,75 15,39.999995 35,74.999995 35,74.999995"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4339-6"
+         d="m -1160,87.362205 c -25,49.999995 -35,84.999995 -15,104.999995 20,20 75,25 90,15 15,-10 35,-25 35,-25"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4341-5"
+         d="m -950,117.3622 c 0,0 60,60 25,80 -35,20 -70,50 -90,25 -20,-25 -50,-30 -50,-30"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

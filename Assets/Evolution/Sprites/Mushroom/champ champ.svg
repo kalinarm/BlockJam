@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="champ champ.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="-354.88595"
+     inkscape:cy="-90.007305"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1496"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1492"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1488"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1484"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1480"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1476"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#b10000;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 319.45361,157.34536 c -30.91662,-1.37185 -80.55787,-29.38043 -59.70619,-49.84021 20.85169,-20.459777 37.11823,-11.904387 49.15979,-42.355666 12.04156,-30.451279 13.22628,-42.902096 46.60826,-47.458764 33.38198,-4.556667 49.67209,22.418811 65.31957,40.14433 15.64749,17.725518 40.65464,22.113402 41.50515,42.18557 0.85052,20.07216 -40.24565,44.27985 -64.12886,50.18041 -23.88321,5.90056 -47.84111,8.51618 -78.75772,7.14433 z"
+       id="path1679"
+       sodipodi:nodetypes="zzzzzzzz" />
+    <path
+       style="fill:#000000;fill-opacity:0.385583;stroke-width:0.264583"
+       d="m 595.39969,222.35966 c -7.37406,-0.84399 -10.84553,-1.71185 -14.98353,-3.74584 -6.17372,-3.03464 -12.22502,-9.23146 -14.5984,-14.94949 -2.50784,-6.042 -2.11399,-13.67405 1.02545,-19.87108 1.58541,-3.12949 3.28998,-5.11891 10.69729,-12.48493 4.09742,-4.07458 7.82865,-7.96733 8.2916,-8.65055 0.93884,-1.3855 2.70884,-5.39605 2.48172,-5.62317 -0.0803,-0.0803 -2.95396,-0.14711 -6.38582,-0.14839 -9.54123,-0.004 -15.14275,-0.50365 -23.83455,-2.12791 -16.44144,-3.07245 -28.28587,-7.89019 -38.86326,-15.80769 -7.44947,-5.57615 -12.46356,-12.16417 -14.95231,-19.64584 -2.55429,-7.67868 -1.60043,-12.74305 3.37628,-17.92578 3.65322,-3.804449 7.7494,-6.154169 16.9695,-9.734339 10.9908,-4.267741 18.94335,-10.379361 25.44846,-19.557451 3.70455,-5.226771 5.13906,-8.256321 10.14338,-21.421869 5.77981,-15.205746 7.41987,-18.545307 11.35028,-23.11198 6.27803,-7.294317 16.92014,-12.86934 28.59641,-14.980643 3.21554,-0.581433 9.53132,-1.203871 12.22173,-1.204485 3.53275,-7.94e-4 13.4273,2.254822 18.54993,4.228765 3.39668,1.30887 8.30995,3.891526 11.82626,6.216462 9.0163,5.96146 14.50091,11.487066 22.31987,22.486708 4.42474,6.224669 6.92427,9.288957 10.48186,12.850161 4.92797,4.93299 8.47528,7.486653 15.66238,11.27516 7.67347,4.044891 11.79187,6.823311 15.07539,10.170401 4.7447,4.83656 7.898,11.692191 7.898,17.171141 0,3.49133 -1.22921,7.774929 -3.57128,12.445309 -1.56213,3.11509 -3.23214,5.42442 -6.08,8.40758 -8.25164,8.64368 -19.30245,16.34969 -32.52235,22.67866 -4.72071,2.26002 -7.08195,3.16589 -15.86834,6.08777 -4.13433,1.37485 -6.78988,2.39779 -7.14375,2.75182 -0.55588,0.55615 -0.56352,0.70775 -0.58447,11.60226 -0.0407,21.18541 -1.37757,29.68957 -6.14356,39.08168 -2.47874,4.88473 -5.02087,8.55577 -7.98313,11.52826 -2.96231,2.97255 -5.80731,4.92569 -10.34068,7.09904 -4.05246,1.94281 -6.92503,2.95564 -10.85408,3.82702 -6.55133,1.45294 -11.71573,1.76889 -17.70628,1.08324 z m 9.14822,-4.48919 c 12.9412,-1.79718 19.84803,-4.71827 25.83096,-10.9246 8.79766,-9.12619 11.904,-19.75846 12.30802,-42.12752 0.23145,-12.81403 -0.58018,-21.13356 -3.13538,-32.13919 -1.05725,-4.55374 -2.73917,-10.66464 -3.56803,-12.96368 -1.76359,-4.89174 -4.55421,-9.65695 -6.08201,-10.38551 -1.04908,-0.50027 -0.0892,-0.93669 -12.93823,5.88269 -4.65667,2.47144 -11.37465,5.98369 -14.92884,7.80501 -4.3479,2.22805 -6.63827,3.55105 -7.00042,4.04371 -0.53131,0.72278 -0.53218,0.76031 -0.0675,2.91041 1.11735,5.16991 1.32245,6.96699 1.33566,11.7032 0.0148,5.3111 -0.41182,8.61193 -1.7112,13.23946 -2.25087,8.01604 -5.86625,13.48694 -13.22915,20.01868 -6.29384,5.58336 -8.27675,7.90654 -10.19349,11.94264 -4.20987,8.86479 -0.5585,19.44338 8.87389,25.70908 6.86134,4.55782 15.82488,6.49116 24.50571,5.28562 z m -17.09056,-66.38028 c 1.41699,-0.25226 2.36213,-0.56093 2.56434,-0.83747 0.49909,-0.68255 0.6647,-2.75941 0.70788,-8.87748 0.0361,-5.11454 -0.0202,-5.91 -0.58737,-8.30233 -0.98459,-4.15288 -1.26905,-4.42854 -3.66431,-3.55092 -0.84108,0.30817 -2.21919,0.78507 -3.06246,1.05978 -1.54169,0.50223 -11.49199,2.22238 -17.64906,3.05106 -11.27328,1.51727 -22.64653,-0.82882 -31.1431,-6.42425 -2.65728,-1.74996 -3.3578,-2.79254 -2.62636,-3.90885 0.71128,-1.08555 1.7719,-0.89698 5.62389,0.99987 4.44393,2.18834 6.33885,2.92986 9.51968,3.72526 4.34072,1.08544 7.82393,1.47617 13.15962,1.47617 15.7765,0 27.01542,-3.81825 53.75272,-18.26168 8.94623,-4.83273 18.81627,-9.71805 23.71702,-11.739089 6.99914,-2.88639 15.01931,-5.2629 21.65902,-6.4179 3.94468,-0.68619 11.54434,-0.68511 14.22631,0.002 6.37083,1.63226 9.60726,7.332789 8.12795,14.316339 -0.97472,4.60148 -3.93872,8.83404 -9.03247,12.89826 -6.88716,5.49516 -14.84961,9.32812 -23.24367,11.18902 -3.30639,0.73301 -3.83594,0.96533 -3.83723,1.68343 -5.3e-4,0.23685 0.44246,2.30586 0.98417,4.59781 0.93857,3.97102 1.0153,4.16719 1.62999,4.16719 1.09049,0 16.5964,-5.25899 20.80224,-7.0553 9.24882,-3.95016 18.17214,-9.6023 26.85313,-17.00911 5.34742,-4.56254 8.04404,-7.8417 10.34546,-12.58038 0.70674,-1.45521 1.58564,-3.70095 1.9531,-4.99054 1.85258,-6.501589 -0.11209,-12.907709 -5.78988,-18.87886 -2.8118,-2.95716 -4.92749,-4.40496 -11.53369,-7.89279 -5.6861,-3.002046 -7.91223,-4.309289 -11.37708,-6.680932 -6.24545,-4.274923 -9.55664,-7.693649 -16.83724,-17.384045 -7.31552,-9.736879 -9.89011,-12.87045 -13.58659,-16.536458 -8.8727,-8.799562 -18.71369,-13.963363 -30.82721,-16.175769 -8.96627,-1.637595 -21.40452,0.119563 -30.54325,4.314863 -4.72953,2.171174 -9.69436,6.089401 -13.12513,10.358297 -3.75439,4.671576 -5.97723,9.127382 -8.63215,17.30366 -2.21546,6.82289 -3.92536,11.207676 -6.07635,15.581913 -6.49984,13.218001 -15.03736,22.338271 -26.07581,27.855682 -1.48304,0.74127 -3.98335,1.89665 -5.55624,2.56749 -3.69769,1.57709 -10.86191,5.203449 -14.25095,7.213509 -3.18827,1.89098 -5.56411,4.26406 -6.27111,6.26385 -0.92433,2.61451 -0.26535,8.17371 1.38861,11.71458 2.38629,5.10863 7.02918,10.82981 11.83231,14.58028 11.12,8.68294 29.30301,14.95702 49.42049,17.05263 2.49152,0.25953 14.88187,-0.081 17.06078,-0.46891 z m 63.65939,-24.90434 c 8.12031,-2.44999 15.42467,-6.74343 21.09253,-12.398 3.59599,-3.58755 4.93879,-6.57161 4.57129,-10.15859 -0.32477,-3.16992 -1.58208,-4.981379 -3.92062,-5.648629 -1.72034,-0.49085 -10.55293,-0.40663 -13.988,0.13337 -6.02185,0.94666 -12.27856,2.818319 -18.67887,5.587689 -3.55359,1.53762 -4.31213,2.03796 -4.31213,2.84437 0,0.28102 0.88667,2.1378 1.97038,4.12618 2.68141,4.91986 4.45148,9.34501 5.69212,14.23019 0.15224,0.59946 0.53483,1.41797 0.8502,1.81891 0.53832,0.68435 0.66514,0.71938 2.07189,0.57235 0.82416,-0.0861 2.91721,-0.58467 4.65121,-1.10784 z"
+       id="path1079" />
+    <path
+       style="fill:#54523d;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 393.19873,100.43468 c 14.31346,-3.96927 31.03253,-12.26867 35.36265,-1.32309 4.33012,10.94557 -10.88962,28.70254 -34.7934,31.73188 -23.90375,3.02934 -77.45242,2.37487 -77.45242,2.37487 27.88623,-5.71348 45.95404,-20.88581 76.88317,-32.78366 z"
+       id="path11747"
+       sodipodi:nodetypes="csscc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 341.567,129.44845 c 2.33678,10.61324 5.95363,28.06701 -1.87113,36.74227 -7.82474,8.67526 -23.46502,25.58448 -18.54124,40.82474 3.57218,11.0567 26.27687,17.04606 53.40944,14.72852 27.13256,-2.31754 24.57531,-22.37107 26.10624,-40.06179 1.53093,-17.69072 -7.81292,-45.70348 -10.11362,-56.65642 -4.9755,-23.68685 -4.34659,-22.26727 -27.31052,-10.18995 -22.9639,12.07732 -22.86165,9.24204 -21.67917,14.61263 z"
+       id="path4010"
+       sodipodi:nodetypes="ssszssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 283.54122,124.03935 c 22.64733,16.87682 47.54225,5.46495 57.49483,1.53092 7.93491,-3.13649 30.10826,-14.79897 41.33506,-20.58247 11.2268,-5.783509 42.35566,-16.840206 46.43813,-5.273199 4.08249,11.567009 -14.96907,27.556699 -35.04124,31.128869"
+       id="path3975"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -376.8088,28.018656 c -30.91662,-1.37185 -80.55787,-29.3804308 -59.70619,-49.84021 20.85169,-20.459778 37.11823,-11.90439 49.15979,-42.355667 12.04156,-30.451279 13.22628,-42.902109 46.60826,-47.458779 33.38198,-4.55666 49.67209,22.418826 65.31957,40.144345 15.64748,17.725518 40.65464,22.113402 41.50515,42.185571 0.85052,20.0721601 -40.24565,44.27985 -64.12886,50.18041 -23.88321,5.90056 -47.84111,8.51618 -78.75772,7.14433 z"
+       id="path13254"
+       sodipodi:nodetypes="zzzzzzzz"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\champ_head_border.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -34.610556,86.146029 c 14.31346,-3.96927 31.0325299,-12.268679 35.3626499,-1.32309 4.33012,10.94557 -10.8896199,28.702541 -34.7933999,31.731881 -23.903742,3.02934 -77.452414,1.69446 -77.452414,1.69446 27.886232,-5.71348 45.954042,-20.205401 76.883164,-32.103251 z"
+       id="path13256"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\champ_mid.png"
+       inkscape:export-xdpi="199.84836"
+       inkscape:export-ydpi="199.84836" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -77.396921,196.29896 c 2.33678,10.61324 5.953634,28.06701 -1.87113,36.74227 -7.82474,8.67526 -23.465019,25.58448 -18.54124,40.82474 3.57218,11.0567 37.333586,16.02544 56.301195,14.21821 18.96761,-1.80723 21.68356,-21.35045 22.53408,-40.402 0.79193,-17.73917 -7.81292,-45.70348 -10.11362,-56.65642 -4.9755,-23.68685 -3.66618,-21.41675 -26.630111,-9.33943 -22.963904,12.07732 -22.861654,9.24204 -21.679174,14.61263 z"
+       id="path13258"
+       sodipodi:nodetypes="ssszssss"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\feet.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -143.44673,109.34003 c 22.64733,16.87682 47.542252,5.46495 57.494832,1.53092 7.93491,-3.13649 30.108254,-14.798973 41.335056,-20.582473 11.2268,-5.78351 42.3556601,-16.840208 46.4381301,-5.2732 4.08249,11.56701 -14.9690701,27.556703 -35.0412401,31.128873"
+       id="path13260"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\champ_mid.png"
+       inkscape:export-xdpi="199.84836"
+       inkscape:export-ydpi="199.84836" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -87.092781,-84.881441 c 0,0 0,0 0,0 z"
+       id="path1474"
+       inkscape:path-effect="#path-effect1476"
+       inkscape:original-d="m -87.092781,-84.881441 c 0.0026,0.0026 0.0026,0.0026 0,0 z"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -108.86598,-59.025773 Z"
+       id="path1486"
+       inkscape:path-effect="#path-effect1488"
+       inkscape:original-d="m -108.86598,-59.025773 c -37.33208,89.189736 83.348725,-24.695917 0,0 z"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -39.123709,-91.85567 c 0,0 -7.314436,9.695879 -0.170104,16.840208 7.14433,7.144329 14.798968,-0.51031 14.798968,-0.51031 z"
+       id="path2251"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -84.927722,-91.857742 c 12.032192,-7.447438 19.391751,3.91237 18.541235,12.247422 -0.850514,8.335052 -9.85256,15.846988 -18.201031,13.438145 -12.645013,-3.648555 -11.562676,-18.739313 -0.340204,-25.685567 z"
+       id="path2253"
+       sodipodi:nodetypes="ssss"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -142.88659,-34.828608 c 0,0 7.48453,11.014176 0.68041,16.287371 -6.80413,5.273196 -15.60696,-8.930413 -15.60696,-8.930413 z"
+       id="path2255"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -104.95861,-48.260064 c 16.159788,-1.530927 15.309275,20.242268 3.91237,20.582475 -11.3969,0.340206 -15.81958,-17.350516 -3.91237,-20.582475 z"
+       id="path2257"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -53.266445,-47.147741 c -12.927836,12.077319 -2.72165,31.298968 10.036082,23.814433 12.757732,-7.484538 4.252579,-31.809279 -10.036082,-23.814433 z"
+       id="path2259"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -118.3067,-75.610823 c 0,0 6.08119,6.463915 2.33892,12.587628 -3.74227,6.123712 -8.33506,2.551546 -8.33506,2.551546 z"
+       id="path2267"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -7.7396905,-53.327318 c -6.4639175,2.551547 0.2551544,15.819587 7.99484513,13.268041 7.73969047,-2.551547 9.69587627,-5.4433 6.37886597,-8.420103 -3.3170103,-2.976806 -10.4354207,-6.402527 -14.3737111,-4.847938 z"
+       id="path2743"
+       sodipodi:nodetypes="ssss"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -117.57995,-11.144569 c -2.94569,1.769719 2.13646,9.3288013 6.1184,8.8268598 4.79895,-0.6049286 6.97423,-6.081187 3.65722,-9.0579898 -3.31701,-2.976805 -6.14623,-1.949345 -9.77562,0.23113 z"
+       id="path4514"
+       sodipodi:nodetypes="ssss"
+       inkscape:export-filename="D:\Projets\NFT_Web3\Assets\Genetic\source\points.png"
+       inkscape:export-xdpi="199.94522"
+       inkscape:export-ydpi="199.94522" />
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33908c11d6f8ad74a9f0f7d40fd8596e, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  sceneConnect: 0
+  sceneTrain: 1
+  sceneBattle: 2
+  sceneCreatureExplorer: 3
+  playerTeamIndex: 0
+  layerCreature:
+    serializedVersion: 2
+    m_Bits: 64
+  layerSlot:
+    serializedVersion: 2
+    m_Bits: 128
+  layerEntity:
+    serializedVersion: 2
+    m_Bits: 2112
+  layerMachine:
+    serializedVersion: 2
+    m_Bits: 0
+  layerInteractable:
+    serializedVersion: 2
+    m_Bits: 256
+  minZ: 0
+  maxZ: 0
+  minX: -24
+  maxX: 15
+  prefabCreature: {fileID: 8118028644401892771, guid: 20023faae9abcaf49a50ac46897f0fcb, type: 3}
+  prefabMushroom: {fileID: 374659354533927492, guid: ef5146cfa207dde4ea2953ff956168f7, type: 3}
+  hpBarAlly: {fileID: 3940517430438829994, guid: 99fa2094009bcf642a30415cdd30f929, type: 3}
+  hpBarEnnemy: {fileID: 1128688313574003029, guid: aa0021cd6e7f77c4eb796e8953ab0b97, type: 3}
+  levels: {fileID: 11400000, guid: 5398ae51bce394f4bbc9120c93e5ab91, type: 2}
+  levelsDignitas: {fileID: 11400000, guid: af8aec46f80bb854a93da5bb9c53bf17, type: 2}
+  levelsMultiplayer: {fileID: 11400000, guid: 3aee55c44cb3c924491e61a3ba4aef7c, type: 2}
+  cursorOffset: {x: 0, y: 0}
+  cursorDefault: {fileID: 2800000, guid: ff3915d43176ca441bf65872fe2a9fe4, type: 3}
+  cursorMove: {fileID: 2800000, guid: 30e9ced2a3cfbb74c868ba08dbad6f54, type: 3}
+  cursorInteractableOn: {fileID: 2800000, guid: 8eca124dedf558044895be5dabb095e5, type: 3}
+  cursorInteractableOff: {fileID: 2800000, guid: 86d4dba650d17ca4b83cdb52c00f3b07, type: 3}

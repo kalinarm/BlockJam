@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9f42c5f45bcdc4abd6fa753b9c6250, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  level: 4
+  levelDignitas: 0
+  gold: 412
+  concentrateAmount: 0
+  creatures:
+    entities:
+    - dna: d7723cdf38e56df371ca
+    - dna: d4509d9ace47c0067bad
+    - dna: 5e4a58bdde4bcb52b3bd
+  mushroom:
+    entities:
+    - dna: 
+    - dna: 
+    - dna: 
+  locks:
+  - cross

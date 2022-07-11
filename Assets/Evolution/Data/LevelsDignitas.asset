@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d829231552672f4981e94e39d838a64, type: 3}
+  m_Name: LevelsDignitas
+  m_EditorClassIdentifier: 
+  campaign: 1
+  levels:
+  - {fileID: 11400000, guid: 3c611f110e940b14db00fe6021d3cd00, type: 2}
+  - {fileID: 11400000, guid: d3e98aefd0843cd478ddf155bcdecc30, type: 2}
+  - {fileID: 11400000, guid: aefd10c47e40d3f499d76912e616c9e2, type: 2}
+  - {fileID: 11400000, guid: 87e7efc4bd154c549a82b765a0c54371, type: 2}
+  - {fileID: 11400000, guid: e34b415cb3b46624b9be4729851cfcea, type: 2}

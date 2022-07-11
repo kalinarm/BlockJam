@@ -1,0 +1,3 @@
+[submodule "Assets/Nyx"]
+	path = Assets/Nyx
+	url = https://gitlab.com/Kalinarm/nyx.git

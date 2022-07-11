@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6d8325378533d2428e73435c626d2e3, type: 3}
+  m_Name: Dignitas Contract
+  m_EditorClassIdentifier: 
+  chain: godwoken
+  chainId: 71401
+  network: testnet-v1
+  contract: 0xed1dd0a4ddf6823e4f9aef6cba92627b71707b10
+  rpc: https://godwoken-testnet-v1.ckbapp.dev
+  abi: 

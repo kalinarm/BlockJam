@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65455fcd888524b4782e7dbbd914e6bf, type: 3}
+  m_Name: Mushroom Data
+  m_EditorClassIdentifier: 
+  phenotype: {fileID: 11400000, guid: 23f430ac5596ff04badc4e2fbcd2f745, type: 2}
+  refColor: {r: 1, g: 0, b: 0, a: 1}
+  refColorInside: {r: 0.38679248, g: 0, b: 0, a: 1}
+  refColorToxin: {r: 1, g: 0, b: 0, a: 1}
+  toxinNameGenerator: {fileID: 11400000, guid: 078cff652c3b78f4f89bf8ff50f4a20a, type: 2}

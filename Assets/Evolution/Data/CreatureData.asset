@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8bd3f8161013d64baaca9520c78a092, type: 3}
+  m_Name: CreatureData
+  m_EditorClassIdentifier: 
+  phenotype: {fileID: 11400000, guid: f0fc68497432af5499c349b74f67f7d7, type: 2}
+  objBody:
+  - {fileID: 5509382688286699582, guid: f0365656baff99145992c91d3104f176, type: 3}
+  - {fileID: 5509382688286699582, guid: 7a5db5182d50d184c969b9ecb28bb3ac, type: 3}
+  - {fileID: 5509382688286699582, guid: e168bddac1b9e3a4cacbd57ccc059331, type: 3}
+  - {fileID: 5509382688286699582, guid: 8a18bd9bcc90dd945b3db9e5712cce11, type: 3}
+  - {fileID: 5509382688286699582, guid: 80dbb90cc8122c94fbdc208bb405b32f, type: 3}
+  objMouth:
+  - {fileID: 5509382688286699582, guid: d0eb093c1e810bc4a975adae1ded0154, type: 3}
+  - {fileID: 5509382688286699582, guid: 0c61b252ded0ef6439fa9e0e9233d245, type: 3}
+  - {fileID: 5509382688286699582, guid: 0228be848c3a69147b8ffb98193152f3, type: 3}
+  - {fileID: 5509382688286699582, guid: 2c8b63eb3fe02314089ebbb93dd0226a, type: 3}
+  - {fileID: 5509382688286699582, guid: b5e9e974fe3dc124094f7aa859deac28, type: 3}
+  objBorder:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 5509382688286699582, guid: 3e24ac6a6dd3ae143988eb3d62d9706c, type: 3}
+  - {fileID: 5509382688286699582, guid: fcecf7d03f36d734ea6bdba298f39e76, type: 3}
+  - {fileID: 5509382688286699582, guid: 7e00861ab2f837a409da7b1cd8bff954, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  objHands:
+  - {fileID: 5509382688286699582, guid: aa3a724f54ea07145bb3f881cc4ef333, type: 3}
+  - {fileID: 5509382688286699582, guid: aa3a724f54ea07145bb3f881cc4ef333, type: 3}
+  - {fileID: 5509382688286699582, guid: 399e524f6a89e2b418b9d670c25e4d90, type: 3}
+  - {fileID: 5509382688286699582, guid: a94337f4d5156044f8eadeee2d1fbdfa, type: 3}
+  - {fileID: 5509382688286699582, guid: 43d14636f4f1cd14db61101a343813de, type: 3}
+  objEars:
+  - {fileID: 0}
+  - {fileID: 5509382688286699582, guid: fa8545d6abfe57a4d9f8dae92b5b98c6, type: 3}
+  - {fileID: 5509382688286699582, guid: 75018792e3a35b140a69423724f4bc71, type: 3}
+  - {fileID: 5509382688286699582, guid: 74d7535a67133b541821afba6cebdde7, type: 3}
+  objEyes:
+  - {fileID: 5509382688286699582, guid: 24bda42372e1a1643938e541ab296a07, type: 3}
+  - {fileID: 5509382688286699582, guid: 1b7719252cabf07448deae225adfbd90, type: 3}
+  - {fileID: 5509382688286699582, guid: 09314004593b2b743af8259ecfec23c5, type: 3}
+  - {fileID: 5509382688286699582, guid: 29ce2cd9f01b4f04d908067c1991c940, type: 3}
+  - {fileID: 5509382688286699582, guid: cc204c680225b5c469c94d07fd4f8e4c, type: 3}
+  spriteBody:
+  - {fileID: 21300000, guid: 8a7d4c6e529a20543ac1184671072c44, type: 3}
+  spriteEyes:
+  - {fileID: 21300000, guid: 7b77219bb7976de4abfb51be77e50354, type: 3}
+  - {fileID: 21300000, guid: 8d312eb9990040640b0ca3bae737104e, type: 3}
+  - {fileID: 21300000, guid: ba83f74434750274f82447a6c3e7e6b1, type: 3}
+  spriteEars:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: eb00773fe3e22844eb97de7aef39ddc4, type: 3}
+  - {fileID: 21300000, guid: edcdde89186035a4f96500be410d229d, type: 3}
+  spriteMouth:
+  - {fileID: 21300000, guid: a92013fd11a49244d8a0f7536a09f08c, type: 3}
+  - {fileID: 21300000, guid: 1ca075ac9b436e443905dd33f2c6030a, type: 3}
+  - {fileID: 21300000, guid: 4ee00fb60c34be84ab7bb40dbcc4b816, type: 3}
+  - {fileID: 21300000, guid: 9ae554c1171399842b29bc359960548b, type: 3}
+  spriteBorder:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 7b3c6042f7d682848acbc1bbd316a4ed, type: 3}
+  - {fileID: 21300000, guid: dc7583cf6efb3404889ed35a128d97f3, type: 3}
+  refColor: {r: 1, g: 0, b: 0, a: 1}

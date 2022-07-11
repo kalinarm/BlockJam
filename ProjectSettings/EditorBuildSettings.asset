@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Evolution/Scene/MenuScene.unity
+    guid: 6ef12deceed1ec04d900225ef15d4a1e
+  - enabled: 1
+    path: Assets/Evolution/Scene/TrainScene.unity
+    guid: a962d545a2c0c324bb55edbcd3c90c36
+  - enabled: 1
+    path: Assets/Evolution/Scene/BattleScene.unity
+    guid: 42e69a5364f310d4695b4a744c4be245
+  - enabled: 1
+    path: Assets/Evolution/Scene/Creature.unity
+    guid: 4343dfb468ccf4a4c9a294e878f822f6
+  m_configObjects: {}

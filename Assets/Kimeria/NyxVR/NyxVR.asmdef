@@ -1,0 +1,16 @@
+{
+    "name": "NyxVR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b09030aa9a35f8d4bbc82f03021d2799"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

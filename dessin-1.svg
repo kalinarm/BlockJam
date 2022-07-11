@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="dessin-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0526726"
+     inkscape:cx="-1042.5433"
+     inkscape:cy="424.81202"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26149">
+      <stop
+         style="stop-color:#626262;stop-opacity:1"
+         offset="0"
+         id="stop26145" />
+      <stop
+         style="stop-color:#b4b4b4;stop-opacity:1"
+         offset="1"
+         id="stop26147" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10345">
+      <stop
+         style="stop-color:#515151;stop-opacity:1;"
+         offset="0"
+         id="stop10341" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop10343" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7500">
+      <stop
+         style="stop-color:#515151;stop-opacity:1;"
+         offset="0"
+         id="stop7496" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop7498" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient7502"
+       x1="35.66333"
+       y1="104.58437"
+       x2="123.4685"
+       y2="69.281883"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient10309"
+       x1="49.014526"
+       y1="154.98213"
+       x2="110.95927"
+       y2="86.903061"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26149"
+       id="linearGradient26151"
+       x1="188.95904"
+       y1="136.23527"
+       x2="195.7514"
+       y2="136.23527"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient26159"
+       x1="146.42699"
+       y1="139.4021"
+       x2="191.0898"
+       y2="110.85142"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient27648"
+       gradientUnits="userSpaceOnUse"
+       x1="63.441246"
+       y1="50.72097"
+       x2="92.507515"
+       y2="50.849865"
+       gradientTransform="translate(-152.57267,-94.70896)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient27650"
+       gradientUnits="userSpaceOnUse"
+       x1="80.520096"
+       y1="60.001553"
+       x2="61.701134"
+       y2="52.396629"
+       gradientTransform="matrix(-1,0,0,1,179.57744,-0.386691)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient27932"
+       gradientUnits="userSpaceOnUse"
+       x1="56.005745"
+       y1="56.65023"
+       x2="102.92426"
+       y2="38.21796" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-26.505824,-22.131795)"
+       x1="63.441246"
+       y1="50.72097"
+       x2="92.507515"
+       y2="50.849865" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient993"
+       gradientUnits="userSpaceOnUse"
+       x1="49.014526"
+       y1="154.98213"
+       x2="110.95927"
+       y2="86.903061"
+       gradientTransform="translate(-145.39581,-4.5113949)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient995"
+       gradientUnits="userSpaceOnUse"
+       x1="35.66333"
+       y1="104.58437"
+       x2="123.4685"
+       y2="69.281883"
+       spreadMethod="pad"
+       gradientTransform="translate(-145.39581,-4.5113949)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient1454"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-290.31468,-5.4228343)"
+       x1="49.014526"
+       y1="154.98213"
+       x2="110.95927"
+       y2="86.903061" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10345"
+       id="linearGradient1456"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(97.263241,53.257373)"
+       x1="63.441246"
+       y1="50.72097"
+       x2="92.507515"
+       y2="50.849865" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient1458"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-290.31468,-5.4228343)"
+       x1="35.66333"
+       y1="104.58437"
+       x2="123.4685"
+       y2="69.281883"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient3161"
+       x1="-698.01794"
+       y1="225.61034"
+       x2="-260.56992"
+       y2="225.61034"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient3782"
+       gradientUnits="userSpaceOnUse"
+       x1="-698.01794"
+       y1="225.61034"
+       x2="-260.56992"
+       y2="225.61034"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,0,148.1667)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7500"
+       id="linearGradient5332"
+       x1="-40.118587"
+       y1="182.44337"
+       x2="16.930817"
+       y2="182.44337"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#c4c4c4;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -102.78499,130.21026 v 5.10309 c 0,0 2.976806,6.19914 47.969075,6.02904 44.9922627,-0.1701 49.1597927,-6.6244 49.1597927,-6.6244 l 0.085,-4.42268 z"
+       id="path893"
+       sodipodi:nodetypes="ccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse895"
+       cx="-54.220558"
+       cy="130.21025"
+       rx="48.470303"
+       ry="6.029582"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient995);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -13.140662,128.59428 c 0,0 8.9304097,-83.775777 -42.951027,-84.45619 -51.881441,-0.680414 -40.14433,85.22166 -40.14433,85.22166 m 0,0 c 0,0 26.477684,4.72689 39.806368,4.15592 27.365239,-1.17227 43.288989,-4.92139 43.288989,-4.92139"
+       id="path897"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#c4c4c4;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 42.610825,134.72165 v 5.10309 c 0,0 2.976803,6.19914 47.969072,6.02904 44.992263,-0.1701 49.159793,-6.6244 49.159793,-6.6244 l 0.085,-4.42268 z"
+       id="path4246"
+       sodipodi:nodetypes="ccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4003"
+       cx="91.175255"
+       cy="134.72165"
+       rx="48.470303"
+       ry="6.029582"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient7502);stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 132.25515,133.10567 c 0,0 8.93041,-83.775772 -42.951027,-84.456185 -51.881444,-0.680414 -40.14433,85.221655 -40.14433,85.221655 m 0,0 c 0,0 26.477684,4.72689 39.806368,4.15592 27.365239,-1.17227 43.288989,-4.92139 43.288989,-4.92139"
+       id="path1419"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient10309);stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 63.193299,135.74227 7.82474,-50.945878 38.698451,-0.340207 5.1031,51.371135 c 0,0 -18.738482,2.34245 -28.15199,2.25113 -7.863051,-0.0763 -23.474301,-2.33618 -23.474301,-2.33618 z"
+       id="path1417"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 67.983592,103.78352 c 0,0 7.305884,-2.78962 21.339389,-2.61952 14.033509,0.1701 22.368559,1.57827 22.368559,1.57827"
+       id="path4565"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 48.734536,84.881441 c 0,0 9.865978,-3.40206 36.402061,-3.827319 26.536083,-0.425257 45.332473,4.762888 45.332473,4.762888 l -3.65722,-12.247424 c 0,0 -20.92268,-3.487113 -38.528346,-3.572164 -17.605669,-0.08505 -36.997423,3.23196 -36.997423,3.23196 z"
+       id="path4680"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#5d5d5d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 48.734535,84.881441 1.786083,0.850516 c 0,0 10.376289,-3.402062 37.932989,-3.231959 27.556703,0.170103 40.908663,4.613553 40.908663,4.613553 l 1.1068,-1.296543 c 0,0 -18.84826,-4.77765 -41.070181,-4.897932 -22.221922,-0.12028 -40.664354,3.962365 -40.664354,3.962365 z"
+       id="path4772"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ebebeb;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 64.530784,127.85875 c 0,0 9.742763,-2.28533 25.078597,-1.98463 15.335839,0.3007 24.477199,3.36787 24.477199,3.36787 l 0.73301,6.58533 c 0,0 -13.30238,2.31547 -26.232598,2.13504 -12.930212,-0.18042 -25.393693,-2.22009 -25.393693,-2.22009 z"
+       id="path10701"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#8f8f8f;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.042631,135.4966 9.095813,-52.517268 c 0,0 10.782339,-0.486357 19.357303,-0.444634 11.043973,0.05374 21.414323,1.188207 21.414323,1.188207 l 6.13767,51.879385 -2.22815,0.22505 -5.1031,-51.371136 -38.698451,0.340207 -7.82474,50.945879 z"
+       id="path13696"
+       sodipodi:nodetypes="ccsccccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.39075631"
+       d="m 70.138443,82.97933 -9.095812,52.51727 -0.751755,0.0902 8.960937,-52.502676 z"
+       id="path15646"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#000000;fill-opacity:0.390756;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.98548,84.19204 5.49155,51.49655 -0.65744,0.13873 -5.12436,-51.482746 -38.827542,0.47439 0.100472,-0.516111 z"
+       id="path16621"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.390756;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path17571"
+       cx="51.466816"
+       cy="126.64175"
+       rx="1.1588273"
+       ry="1.8073454"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.390756;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path17595"
+       cx="46.363724"
+       cy="134.55154"
+       rx="1.6691366"
+       ry="0.53157216"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#d1d1d1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 51.477449,125.85502 c 0,0 -6.676549,-0.36146 -6.846649,1.25452 -0.170103,1.61597 1.020617,7.42074 1.020617,7.42074 0,0 -0.06379,0.29768 0.659148,0.27642 0.72294,-0.0213 0.80799,-0.31894 0.80799,-0.31894 0,0 -1.722292,-5.46456 -1.084405,-6.50645 0.637886,-1.04188 5.464561,-0.61662 5.464561,-0.61662 0,0 0.616625,0.0638 0.616625,-0.70168 0,-0.76546 -0.637887,-0.80799 -0.637887,-0.80799 z"
+       id="path17698"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 50.563144,126.66301 c -0.0051,0.14639 -0.04578,0.32068 -0.02127,0.46779 0.0031,0.0188 0.01603,0.0348 0.02127,0.0532 0.0019,0.007 -0.0032,0.0149 0,0.0213 0.0016,0.003 0.0078,-0.002 0.01064,0 0.01603,0.012 0.02835,0.0284 0.04253,0.0425"
+       id="path18230"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 49.670102,126.88628 c -0.0044,0.0236 -0.06498,0.33901 -0.02127,0.38273 0.01442,0.0144 0.04431,0.002 0.06379,0.0213"
+       id="path18232"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 45.906573,127.25837 c 0.03572,0.0579 0.01598,0.13166 0.04252,0.19137 0.02381,0.0536 0.107894,0.0973 0.148841,0.13821 0.0053,0.005 0.0053,0.0159 0.01064,0.0213 0.0044,0.004 0.08196,0.0144 0.09568,0.0213 0.02751,0.0138 0.08004,0.0532 0.09568,0.0532"
+       id="path18234"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 45.024161,127.7049 c 0.02835,0.0248 0.06094,0.0455 0.08505,0.0744 0.04721,0.0567 0.07872,0.1255 0.127577,0.18073 0.102812,0.11622 0.290176,0.18532 0.435888,0.23389 0.0473,0.0158 0.175268,0 0.233894,0"
+       id="path18236"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.448255,104.58437 -0.951619,6.06268 -4.35138,-0.0918 0.732316,-6.4821 z"
+       id="path18303"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path18422"
+       cx="59.918816"
+       cy="105.90512"
+       rx="0.72293812"
+       ry="0.67509663"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path18424"
+       cx="61.970684"
+       cy="106.06991"
+       rx="0.66978091"
+       ry="0.63788658"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect18448"
+       width="2.8917525"
+       height="0.89304119"
+       x="69.708473"
+       y="100.73486"
+       transform="rotate(5.6914356)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect18530"
+       width="2.8917525"
+       height="0.89304119"
+       x="69.683655"
+       y="102.20106"
+       transform="rotate(5.6914356)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.075385,118.11533 c 0,0 1.126933,0.19137 2.317656,0.21263 1.19072,0.0213 3.01933,-0.63788 3.01933,-0.63788 l 0.148839,4.25257 c 0,0 -1.871134,0.59536 -2.785439,0.59536 -0.914302,0 -2.562177,-0.3721 -2.562177,-0.3721 z"
+       id="path18736"
+       sodipodi:nodetypes="ccccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path19959"
+       cx="52.777145"
+       cy="118.52995"
+       rx="0.14086662"
+       ry="0.069104381"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path19961"
+       cx="53.053558"
+       cy="121.6875"
+       rx="0.11428802"
+       ry="0.085051544"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.15119,48.672259 c 8.836295,-0.01122 14.0747,2.593186 14.0747,2.593186 0,0 -8.223314,1.423986 -13.921767,1.423986 -5.698455,0 -13.655414,-1.784386 -13.655414,-1.784386 0,0 4.666187,-2.221569 13.502481,-2.232786 z"
+       id="path20796"
+       sodipodi:nodetypes="zcscz"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path21333"
+       cx="78.084953"
+       cy="50.751083"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22441"
+       cx="79.76889"
+       cy="51.066822"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22443"
+       cx="81.43779"
+       cy="51.307384"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22445"
+       cx="82.956337"
+       cy="51.457737"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22447"
+       cx="84.610199"
+       cy="51.653194"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22449"
+       cx="86.324203"
+       cy="51.788509"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22451"
+       cx="87.917931"
+       cy="51.908791"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22453"
+       cx="89.58683"
+       cy="51.908791"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22455"
+       cx="91.481255"
+       cy="51.863686"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22457"
+       cx="93.150154"
+       cy="51.743404"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22459"
+       cx="94.864159"
+       cy="51.547947"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22461"
+       cx="96.578163"
+       cy="51.382561"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22463"
+       cx="98.307205"
+       cy="51.187103"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse22465"
+       cx="99.915962"
+       cy="50.886402"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path22489"
+       cx="31.498528"
+       cy="86.465111"
+       rx="5.3901415"
+       ry="2.9130154"
+       transform="rotate(-31.706423)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient27932);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.327642,59.461661 c 0,0 2.711018,-0.403998 4.241944,-1.62661 1.530927,-1.222615 1.988081,-3.146907 1.988081,-3.146907 0,0 -7.133699,-4.433311 -8.53705,-6.761597 1.786084,2.689755 2.307025,11.535114 2.307025,11.535114 z"
+       id="path22604"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:url(#linearGradient27648);fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse27396"
+       cx="-121.07414"
+       cy="-8.2438488"
+       rx="5.3901415"
+       ry="2.9130154"
+       transform="matrix(-0.8507522,-0.52556703,-0.52556703,0.8507522,0,0)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient27650);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.2498,59.07497 c 0,0 -2.71102,-0.403998 -4.24195,-1.62661 -1.53092,-1.222615 -1.98808,-3.146907 -1.98808,-3.146907 0,0 7.1337,-4.433311 8.53705,-6.761597 -1.78608,2.689755 -2.30702,11.535114 -2.30702,11.535114 z"
+       id="path27398"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse975"
+       cx="-89.826241"
+       cy="6.2117872"
+       rx="5.3901415"
+       ry="2.9130154"
+       transform="rotate(-31.706423)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:url(#linearGradient989);fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse979"
+       cx="4.9927039"
+       cy="64.333321"
+       rx="5.3901415"
+       ry="2.9130154"
+       transform="matrix(-0.8507522,-0.52556703,-0.52556703,0.8507522,0,0)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.75515,92.323453 c 0,0 3.35954,-0.51031 6.29382,-0.170103 2.93428,0.340206 5.76224,0.807989 5.76224,0.807989 0,0 2.12629,5.74098 2.29639,10.036081 0.1701,4.2951 -0.0213,11.18428 -0.0213,11.18428 0,0 -3.69974,-0.40399 -6.10245,-0.38273 -2.4027,0.0213 -5.72612,0.84535 -5.72612,0.84535 0,0 -0.46138,-10.17976 -0.67398,-12.49741 -0.21263,-2.317659 -1.82861,-9.823457 -1.82861,-9.823457 z"
+       id="path23524"
+       sodipodi:nodetypes="cscscccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.33009,93.773236 c 0,0 2.006,5.319997 2.1761,9.615094 0.1701,4.2951 -0.26187,10.13182 -0.26187,10.13182 0,0 -2.76756,-0.31378 -5.17027,-0.29252 -2.4027,0.0213 -5.27506,0.87542 -5.27506,0.87542 0,0 -0.2509,-9.24757 -0.46349,-11.56522 -0.21263,-2.31766 -1.67826,-9.673112 -1.67826,-9.673112 0,0 2.33285,-0.413727 5.26714,-0.07352 2.93428,0.340208 5.40571,0.982036 5.40571,0.982036 z"
+       id="path23811"
+       sodipodi:nodetypes="cscccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonage.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.406004,218.16094 c 0,0 9.865978,-3.40206 36.402061,-3.82732 26.536085,-0.42526 45.332475,4.76289 45.332475,4.76289 l -3.65722,-12.24743 c 0,0 -20.92268,-3.48711 -38.528348,-3.57216 -17.605669,-0.085 -36.997423,3.23196 -36.997423,3.23196 z"
+       id="path25318"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonageTitle.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.171076,174.77726 c 0,0 9.742763,-2.28533 25.078597,-1.98463 15.335837,0.3007 24.477197,3.36787 24.477197,3.36787 l 0.73301,6.58533 c 0,0 -13.30238,2.31547 -26.232596,2.13504 -12.930212,-0.18042 -25.393693,-2.22009 -25.393693,-2.22009 z"
+       id="path25320"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonageGround.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient26151);stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 189.09189,159.96117 0.38669,-48.98086 h 6.05816 c 0,0 0.38669,45.88733 -0.51558,49.10976 -0.90228,3.22242 -5.92927,-0.1289 -5.92927,-0.1289 z"
+       id="path25490"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\FeetButton.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient26159);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.14782,97.973797 4.69467,17.453463 25.90829,-0.1289 3.02908,-17.85223 z"
+       id="path25658"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\FeetButton.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <g
+       id="g25855"
+       style="fill:#a2a2a2;fill-opacity:1"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\FeetButton.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901">
+      <path
+         style="fill:#a2a2a2;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 175.97461,98.300066 -1.12584,3.528564 4.25361,15.53208 1.74011,-1.93345 z"
+         id="path25769"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#a2a2a2;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="m 179.10238,117.36071 1.74011,-1.93345 25.90829,-0.1289 -1.48231,2.3846 z"
+         id="path25771" />
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 149.04923,166.27779 c 0,0 2.006,5.32 2.1761,9.6151 0.1701,4.2951 -0.26187,10.13182 -0.26187,10.13182 0,0 -2.76756,-0.31378 -5.17027,-0.29252 -2.4027,0.0213 -5.27506,0.87542 -5.27506,0.87542 0,0 -0.2509,-9.24757 -0.46349,-11.56522 -0.21263,-2.31766 -1.67826,-9.67311 -1.67826,-9.67311 0,0 2.33285,-0.41373 5.26714,-0.0735 2.93428,0.3402 5.40571,0.98203 5.40571,0.98203 z"
+       id="path26956"
+       sodipodi:nodetypes="cscccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clonageWindow.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient993);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -82.202513,131.23088 7.82474,-50.945883 38.698451,-0.340207 5.1031,51.37114 c 0,0 -18.738482,2.34245 -28.15199,2.25113 -7.863051,-0.0763 -23.474301,-2.33618 -23.474301,-2.33618 z"
+       id="path899"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -77.41222,99.272125 c 0,0 7.305884,-2.78962 21.339389,-2.61952 14.033509,0.1701 22.368559,1.57827 22.368559,1.57827"
+       id="path901"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -96.661276,80.370046 c 0,0 9.865978,-3.40206 36.402061,-3.827319 26.536083,-0.425257 45.332473,4.762888 45.332473,4.762888 l -3.65722,-12.247424 c 0,0 -20.92268,-3.487113 -38.528346,-3.572164 -17.605669,-0.08505 -36.997423,3.23196 -36.997423,3.23196 z"
+       id="path903"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#5d5d5d;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -96.661277,80.370046 1.786083,0.850516 c 0,0 10.376289,-3.402062 37.932989,-3.231959 27.556703,0.170103 40.908663,4.613553 40.908663,4.613553 l 1.1068,-1.296543 c 0,0 -18.84826,-4.77765 -41.070181,-4.897932 -22.221922,-0.12028 -40.664354,3.962365 -40.664354,3.962365 z"
+       id="path905"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ebebeb;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -80.865028,123.34736 c 0,0 9.742763,-2.28533 25.078597,-1.98463 15.335839,0.3007 24.477199,3.36787 24.477199,3.36787 l 0.73301,6.58533 c 0,0 -13.30238,2.31547 -26.232598,2.13504 -12.930212,-0.18042 -25.393693,-2.22009 -25.393693,-2.22009 z"
+       id="path907"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#8f8f8f;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -84.353181,130.98521 9.095813,-52.517273 c 0,0 10.782339,-0.486357 19.357303,-0.444634 11.043973,0.05374 21.414323,1.188207 21.414323,1.188207 l 6.13767,51.87939 -2.22815,0.22505 -5.1031,-51.371141 -38.698451,0.340207 -7.82474,50.945884 z"
+       id="path909"
+       sodipodi:nodetypes="ccsccccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#000000;fill-opacity:0.390756;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -75.257369,78.467935 -9.095812,52.517275 -0.751755,0.0902 8.960937,-52.502681 z"
+       id="path911"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#000000;fill-opacity:0.390756;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -35.410332,79.680645 5.49155,51.496555 -0.65744,0.13873 -5.12436,-51.482751 -38.827542,0.47439 0.100472,-0.516111 z"
+       id="path913"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.390756;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse915"
+       cx="-93.928993"
+       cy="122.13035"
+       rx="1.1588273"
+       ry="1.8073454"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.390756;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse917"
+       cx="-99.032089"
+       cy="130.04015"
+       rx="1.6691366"
+       ry="0.53157216"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -93.918363,121.34363 c 0,0 -6.676547,-0.36146 -6.846647,1.25452 -0.17011,1.61597 1.020615,7.42074 1.020615,7.42074 0,0 -0.06379,0.29768 0.659148,0.27642 0.72294,-0.0213 0.80799,-0.31894 0.80799,-0.31894 0,0 -1.722292,-5.46456 -1.084405,-6.50645 0.637886,-1.04188 5.464561,-0.61662 5.464561,-0.61662 0,0 0.616625,0.0638 0.616625,-0.70168 0,-0.76546 -0.637887,-0.80799 -0.637887,-0.80799 z"
+       id="path919"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -94.832668,122.15162 c -0.0051,0.14639 -0.04578,0.32068 -0.02127,0.46779 0.0031,0.0188 0.01603,0.0348 0.02127,0.0532 0.0019,0.007 -0.0032,0.0149 0,0.0213 0.0016,0.003 0.0078,-0.002 0.01064,0 0.01603,0.012 0.02835,0.0284 0.04253,0.0425"
+       id="path921"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -95.72571,122.37489 c -0.0044,0.0236 -0.06498,0.33901 -0.02127,0.38273 0.01442,0.0144 0.04431,0.002 0.06379,0.0213"
+       id="path923"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -99.489239,122.74698 c 0.03572,0.0579 0.01598,0.13166 0.04252,0.19137 0.02381,0.0536 0.107894,0.0973 0.148841,0.13821 0.0053,0.005 0.0053,0.0159 0.01064,0.0213 0.0044,0.004 0.08196,0.0144 0.09568,0.0213 0.02751,0.0138 0.08004,0.0532 0.09568,0.0532"
+       id="path925"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -100.37165,123.19351 c 0.0284,0.0248 0.0609,0.0455 0.085,0.0744 0.0472,0.0567 0.0787,0.1255 0.12758,0.18073 0.10281,0.11622 0.290172,0.18532 0.435884,0.23389 0.0473,0.0158 0.175268,0 0.233894,0"
+       id="path927"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -81.947557,100.07298 -0.951619,6.06268 -4.35138,-0.0918 0.732316,-6.482105 z"
+       id="path929"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse931"
+       cx="-85.476997"
+       cy="101.39372"
+       rx="0.72293812"
+       ry="0.67509663"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse933"
+       cx="-83.425125"
+       cy="101.55851"
+       rx="0.66978091"
+       ry="0.63788658"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect935"
+       width="2.8917525"
+       height="0.89304119"
+       x="-75.417999"
+       y="110.66476"
+       transform="rotate(5.6914356)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect937"
+       width="2.8917525"
+       height="0.89304119"
+       x="-75.442818"
+       y="112.13095"
+       transform="rotate(5.6914356)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -97.320427,113.60394 c 0,0 1.126933,0.19137 2.317656,0.21263 1.19072,0.0213 3.01933,-0.63788 3.01933,-0.63788 l 0.148839,4.25257 c 0,0 -1.871134,0.59536 -2.785439,0.59536 -0.914302,0 -2.562177,-0.3721 -2.562177,-0.3721 z"
+       id="path939"
+       sodipodi:nodetypes="ccccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse941"
+       cx="-92.618668"
+       cy="114.01855"
+       rx="0.14086662"
+       ry="0.069104381"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse943"
+       cx="-92.342255"
+       cy="117.1761"
+       rx="0.11428802"
+       ry="0.085051544"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -56.244622,44.160864 c 8.836295,-0.01122 14.0747,2.593186 14.0747,2.593186 0,0 -8.223314,1.423986 -13.921767,1.423986 -5.698455,0 -13.655414,-1.784386 -13.655414,-1.784386 0,0 4.666187,-2.221569 13.502481,-2.232786 z"
+       id="path945"
+       sodipodi:nodetypes="zcscz"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse947"
+       cx="-67.31086"
+       cy="46.239689"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse949"
+       cx="-65.626923"
+       cy="46.555428"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse951"
+       cx="-63.958023"
+       cy="46.79599"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse953"
+       cx="-62.439476"
+       cy="46.946342"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse955"
+       cx="-60.785614"
+       cy="47.1418"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse957"
+       cx="-59.071609"
+       cy="47.277115"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse959"
+       cx="-57.477882"
+       cy="47.397396"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse961"
+       cx="-55.808983"
+       cy="47.397396"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse963"
+       cx="-53.914558"
+       cy="47.352291"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse965"
+       cx="-52.245659"
+       cy="47.23201"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse967"
+       cx="-50.531654"
+       cy="47.036552"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse969"
+       cx="-48.81765"
+       cy="46.871166"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse971"
+       cx="-47.088608"
+       cy="46.675709"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse973"
+       cx="-45.479851"
+       cy="46.375008"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -29.640662,87.812058 c 0,0 3.35954,-0.51031 6.29382,-0.170103 2.93428,0.340206 5.76224,0.807989 5.76224,0.807989 0,0 2.12629,5.74098 2.29639,10.036081 0.1701,4.295105 -0.0213,11.184285 -0.0213,11.184285 0,0 -3.69974,-0.40399 -6.10245,-0.38273 -2.4027,0.0213 -5.72612,0.84535 -5.72612,0.84535 0,0 -0.46138,-10.179765 -0.67398,-12.497415 -0.21263,-2.317659 -1.82861,-9.823457 -1.82861,-9.823457 z"
+       id="path983"
+       sodipodi:nodetypes="cscscccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -18.065722,89.261841 c 0,0 2.006,5.319997 2.1761,9.615094 0.1701,4.295105 -0.26187,10.131825 -0.26187,10.131825 0,0 -2.76756,-0.31378 -5.17027,-0.29252 -2.4027,0.0213 -5.27506,0.87542 -5.27506,0.87542 0,0 -0.2509,-9.24757 -0.46349,-11.565225 -0.21263,-2.31766 -1.67826,-9.673112 -1.67826,-9.673112 0,0 2.33285,-0.413727 5.26714,-0.07352 2.93428,0.340208 5.40571,0.982036 5.40571,0.982036 z"
+       id="path985"
+       sodipodi:nodetypes="cscccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#c4c4c4;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -247.70386,129.29882 v 5.10309 c 0,0 2.97681,6.19914 47.96908,6.02904 44.99226,-0.1701 49.15979,-6.6244 49.15979,-6.6244 l 0.085,-4.42268 z"
+       id="path1364"
+       sodipodi:nodetypes="ccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1366"
+       cx="-199.13942"
+       cy="129.29881"
+       rx="48.470303"
+       ry="6.029582"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient1458);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -158.05953,127.68284 c 0,0 8.93041,-83.775776 -42.95102,-84.456189 -51.88145,-0.680414 -40.14433,85.221659 -40.14433,85.221659 m 0,0 c 0,0 26.47768,4.72689 39.80636,4.15592 27.36524,-1.17227 43.28899,-4.92139 43.28899,-4.92139"
+       id="path1368"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1370"
+       cx="-212.63727"
+       cy="-70.728195"
+       rx="5.3901415"
+       ry="2.9130154"
+       transform="rotate(-31.706423)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:url(#linearGradient1456);fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1372"
+       cx="128.76176"
+       cy="139.72249"
+       rx="5.3901415"
+       ry="2.9130154"
+       transform="matrix(-0.8507522,-0.52556703,-0.52556703,0.8507522,0,0)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient1454);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -227.12138,130.31944 7.82474,-50.945882 38.69845,-0.340207 5.1031,51.371139 c 0,0 -18.73848,2.34245 -28.15199,2.25113 -7.86305,-0.0763 -23.4743,-2.33618 -23.4743,-2.33618 z"
+       id="path1374"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -222.33109,98.360686 c 0,0 7.30589,-2.78962 21.33939,-2.61952 14.03351,0.1701 22.36856,1.57827 22.36856,1.57827"
+       id="path1376"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -241.58014,79.458607 c 0,0 9.86598,-3.40206 36.40206,-3.827319 26.53608,-0.425257 45.33247,4.762888 45.33247,4.762888 l -3.65722,-12.247424 c 0,0 -20.92268,-3.487113 -38.52834,-3.572164 -17.60567,-0.08505 -36.99743,3.23196 -36.99743,3.23196 z"
+       id="path1378"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#5d5d5d;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -241.58014,79.458607 1.78608,0.850516 c 0,0 10.37629,-3.402062 37.93299,-3.231959 27.5567,0.170103 40.90866,4.613553 40.90866,4.613553 l 1.1068,-1.296543 c 0,0 -18.84826,-4.77765 -41.07018,-4.897932 -22.22192,-0.12028 -40.66435,3.962365 -40.66435,3.962365 z"
+       id="path1380"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#ebebeb;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -225.78389,122.43592 c 0,0 9.74276,-2.28533 25.07859,-1.98463 15.33584,0.3007 24.4772,3.36787 24.4772,3.36787 l 0.73301,6.58533 c 0,0 -13.30238,2.31547 -26.2326,2.13504 -12.93021,-0.18042 -25.39369,-2.22009 -25.39369,-2.22009 z"
+       id="path1382"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#8f8f8f;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -229.27205,130.07377 9.09582,-52.517272 c 0,0 10.78234,-0.486357 19.3573,-0.444634 11.04397,0.05374 21.41432,1.188207 21.41432,1.188207 l 6.13767,51.879389 -2.22815,0.22505 -5.1031,-51.37114 -38.69845,0.340207 -7.82474,50.945883 z"
+       id="path1384"
+       sodipodi:nodetypes="ccsccccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#000000;fill-opacity:0.390756;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -220.17623,77.556496 -9.09582,52.517274 -0.75175,0.0902 8.96094,-52.50268 z"
+       id="path1386"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#000000;fill-opacity:0.390756;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -180.3292,78.769206 5.49155,51.496554 -0.65744,0.13873 -5.12436,-51.48275 -38.82754,0.47439 0.10047,-0.516111 z"
+       id="path1388"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.390756;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1390"
+       cx="-238.84785"
+       cy="121.21891"
+       rx="1.1588273"
+       ry="1.8073454"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.390756;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1392"
+       cx="-243.95096"
+       cy="129.12871"
+       rx="1.6691366"
+       ry="0.53157216"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -238.83723,120.43219 c 0,0 -6.67655,-0.36146 -6.84665,1.25452 -0.17011,1.61597 1.02062,7.42074 1.02062,7.42074 0,0 -0.0638,0.29768 0.65915,0.27642 0.72294,-0.0213 0.80799,-0.31894 0.80799,-0.31894 0,0 -1.72229,-5.46456 -1.08441,-6.50645 0.63789,-1.04188 5.46456,-0.61662 5.46456,-0.61662 0,0 0.61663,0.0638 0.61663,-0.70168 0,-0.76546 -0.63789,-0.80799 -0.63789,-0.80799 z"
+       id="path1394"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -239.75153,121.24018 c -0.005,0.14639 -0.0458,0.32068 -0.0213,0.46779 0.003,0.0188 0.016,0.0348 0.0213,0.0532 0.002,0.007 -0.003,0.0149 0,0.0213 0.002,0.003 0.008,-0.002 0.0106,0 0.016,0.012 0.0284,0.0284 0.0425,0.0425"
+       id="path1396"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -240.64458,121.46345 c -0.004,0.0236 -0.065,0.33901 -0.0213,0.38273 0.0144,0.0144 0.0443,0.002 0.0638,0.0213"
+       id="path1398"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -244.4081,121.83554 c 0.0357,0.0579 0.016,0.13166 0.0425,0.19137 0.0238,0.0536 0.10789,0.0973 0.14884,0.13821 0.005,0.005 0.005,0.0159 0.0106,0.0213 0.004,0.004 0.082,0.0144 0.0957,0.0213 0.0275,0.0138 0.08,0.0532 0.0957,0.0532"
+       id="path1400"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -245.29052,122.28207 c 0.0284,0.0248 0.0609,0.0455 0.085,0.0744 0.0472,0.0567 0.0787,0.1255 0.12758,0.18073 0.10281,0.11622 0.29018,0.18532 0.43589,0.23389 0.0473,0.0158 0.17527,0 0.23389,0"
+       id="path1402"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -226.86642,99.161541 -0.95162,6.062679 -4.35138,-0.0918 0.73231,-6.482104 z"
+       id="path1404"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1406"
+       cx="-230.39586"
+       cy="100.48228"
+       rx="0.72293812"
+       ry="0.67509663"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1408"
+       cx="-228.34399"
+       cy="100.64707"
+       rx="0.66978091"
+       ry="0.63788658"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1410"
+       width="2.8917525"
+       height="0.89304119"
+       x="-219.71286"
+       y="124.12956"
+       transform="rotate(5.6914356)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1412"
+       width="2.8917525"
+       height="0.89304119"
+       x="-219.73769"
+       y="125.59576"
+       transform="rotate(5.6914356)"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -242.23929,112.6925 c 0,0 1.12693,0.19137 2.31765,0.21263 1.19072,0.0213 3.01933,-0.63788 3.01933,-0.63788 l 0.14884,4.25257 c 0,0 -1.87113,0.59536 -2.78544,0.59536 -0.9143,0 -2.56217,-0.3721 -2.56217,-0.3721 z"
+       id="path1414"
+       sodipodi:nodetypes="ccccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1416"
+       cx="-237.53754"
+       cy="113.10711"
+       rx="0.14086662"
+       ry="0.069104381"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1418"
+       cx="-237.26112"
+       cy="116.26466"
+       rx="0.11428802"
+       ry="0.085051544"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -201.16349,43.249425 c 8.8363,-0.01122 14.0747,2.593186 14.0747,2.593186 0,0 -8.22331,1.423986 -13.92176,1.423986 -5.69846,0 -13.65542,-1.784386 -13.65542,-1.784386 0,0 4.66619,-2.221569 13.50248,-2.232786 z"
+       id="path1420"
+       sodipodi:nodetypes="zcscz"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1422"
+       cx="-212.22972"
+       cy="45.328251"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1424"
+       cx="-210.54579"
+       cy="45.64399"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1426"
+       cx="-208.87689"
+       cy="45.884552"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1428"
+       cx="-207.35834"
+       cy="46.034904"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1430"
+       cx="-205.70448"
+       cy="46.230362"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1432"
+       cx="-203.99048"
+       cy="46.365677"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1434"
+       cx="-202.39674"
+       cy="46.485958"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1436"
+       cx="-200.72784"
+       cy="46.485958"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1438"
+       cx="-198.83342"
+       cy="46.440853"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1440"
+       cx="-197.16452"
+       cy="46.320572"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1442"
+       cx="-195.45052"
+       cy="46.125114"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1444"
+       cx="-193.73651"
+       cy="45.959728"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1446"
+       cx="-192.00748"
+       cy="45.764271"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1448"
+       cx="-190.39871"
+       cy="45.46357"
+       rx="0.097728349"
+       ry="0.067658089"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -174.55953,86.900619 c 0,0 3.35954,-0.51031 6.29382,-0.170103 2.93428,0.340206 5.76224,0.807989 5.76224,0.807989 0,0 2.12629,5.74098 2.29639,10.036081 0.1701,4.295104 -0.0213,11.184284 -0.0213,11.184284 0,0 -3.69974,-0.40399 -6.10245,-0.38273 -2.4027,0.0213 -5.72612,0.84535 -5.72612,0.84535 0,0 -0.46138,-10.179764 -0.67398,-12.497414 -0.21263,-2.317659 -1.82861,-9.823457 -1.82861,-9.823457 z"
+       id="path1450"
+       sodipodi:nodetypes="cscscccscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -162.98459,88.350402 c 0,0 2.006,5.319997 2.1761,9.615094 0.1701,4.295104 -0.26187,10.131824 -0.26187,10.131824 0,0 -2.76756,-0.31378 -5.17027,-0.29252 -2.4027,0.0213 -5.27506,0.87542 -5.27506,0.87542 0,0 -0.2509,-9.247569 -0.46349,-11.565224 -0.21263,-2.31766 -1.67826,-9.673112 -1.67826,-9.673112 0,0 2.33285,-0.413727 5.26714,-0.07352 2.93428,0.340208 5.40571,0.982036 5.40571,0.982036 z"
+       id="path1452"
+       sodipodi:nodetypes="cscccsccc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_neutral.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <ellipse
+       style="fill:#626262;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1515"
+       cx="-126.78121"
+       cy="87.088028"
+       rx="16.67934"
+       ry="3.600179" />
+    <path
+       id="path1720"
+       style="fill:url(#linearGradient3161);fill-opacity:1;stroke:#000000;stroke-width:3.77952761;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -376.91406,122.79297 c -1.93125,-0.003 -3.86698,0.0583 -5.80469,0.1875 -59.35314,3.95687 -96.58398,130.05273 -96.58398,130.05273 v 0 c 0,0 -37.30672,-126.0357 -96.56641,-129.98632 -62.00659,-4.13377 -121.60156,61.6621 -121.60156,61.6621 0,0 -0.85099,12.76271 6.72761,19.65234 7.57859,6.88962 23.93059,6.1836 23.93059,6.1836 0,0 62.35163,-58.90672 92.66602,-56.83984 30.3143,2.06689 51.67187,65.10635 51.67187,100.58789 0,35.48155 -40.56272,37.98079 -20.92731,73.80682 36.93449,-17.63182 85.37118,-18.08645 128.12983,0.19 19.63541,-35.82603 -20.84119,-38.58168 -20.84119,-74.06323 0,-35.48154 21.35757,-98.521 51.67187,-100.58789 30.31435,-2.06688 94.85828,58.72763 94.85828,58.72763 0,0 14.8905,-0.39012 22.46909,-7.27974 7.57858,-6.88962 8.3718,-17.09469 8.3718,-17.09469 0,0 -58.30303,-65.09787 -118.17182,-65.1989 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccccscscssccsscscc" />
+    <ellipse
+       style="fill:#292929;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3778"
+       cx="-126.78121"
+       cy="235.25478"
+       rx="16.67934"
+       ry="3.600179"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clone_liaison.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       id="path3780"
+       style="fill:url(#linearGradient3782);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -99.725177,180.65569 c -0.510973,-7.9e-4 -1.023143,0.0154 -1.535823,0.0496 -15.70385,1.04693 -25.55451,34.40981 -25.55451,34.40981 v 0 c 0,0 -9.87074,-33.34697 -25.54986,-34.39224 -16.40591,-1.09372 -32.17375,16.31478 -32.17375,16.31478 0,0 -0.22516,3.3768 1.78001,5.19968 2.00517,1.82288 6.33164,1.63608 6.33164,1.63608 0,0 16.4972,-15.58575 24.51788,-15.03888 8.02066,0.54686 13.67152,17.22606 13.67152,26.61389 0,9.38783 -10.73222,10.04909 -5.53702,19.52807 9.77225,-4.66509 22.58779,-4.78538 33.90102,0.0503 5.1952,-9.47898 -5.51423,-10.20808 -5.51423,-19.59591 0,-9.38783 5.65085,-26.06703 13.67151,-26.6139 8.020673,-0.54686 25.097921,15.53837 25.097921,15.53837 0,0 3.939778,-0.10322 5.944947,-1.9261 2.005166,-1.82288 2.215039,-4.52298 2.215039,-4.52298 0,0 -15.42601,-17.22382 -31.266294,-17.25055 z"
+       sodipodi:nodetypes="ccccscscssccsscscc"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\clone_liaison.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       style="fill:url(#linearGradient5332);fill-opacity:1.0;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -39.625921,207.42113 9.095811,-52.51728 40.771627,0.74358 6.137669,51.87939 c 0,0 -14.7035251,2.70418 -25.4664231,2.44639 -10.7629009,-0.2578 -30.5386839,-2.55208 -30.5386839,-2.55208"
+       id="path4159"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_door.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       id="rect4559"
+       style="fill:#a3e3e6;stroke:#000000;stroke-linejoin:round;fill-opacity:1"
+       d="M -23.369608,160.41231 H 2.7460885 c 2.2276369,0 3.798009,1.80456 4.0210052,4.021 l 1.0583333,10.51916 c 0.2229972,2.21645 -1.7933683,4.021 -4.0210052,4.021 H -25.486275 c -2.227637,0 -4.460444,-1.83713 -4.021006,-4.021 l 2.116667,-10.51916 c 0.439436,-2.18386 1.793369,-4.021 4.021006,-4.021 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_door.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <path
+       id="rect4561"
+       style="fill:#a3e3e6;fill-opacity:1;stroke:#000000;stroke-linejoin:round"
+       d="M -29.621111,186.90063 H 7.6441751 c 2.2276368,0 3.7145119,1.81456 4.0210049,4.02101 l 1.058333,7.61897 c 0.306494,2.20645 -1.793368,4.02101 -4.0210046,4.02101 0,0 -12.9247918,3.3283 -19.5298564,3.35132 -6.884944,0.024 -20.381263,-3.35132 -20.381263,-3.35132 -2.198119,-0.36144 -4.475402,-1.84021 -4.021006,-4.02101 l 1.5875,-7.61897 c 0.454396,-2.1808 1.793369,-4.02101 4.021006,-4.02101 z"
+       sodipodi:nodetypes="ssssssssss"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\machine_door.png"
+       inkscape:export-xdpi="300.07901"
+       inkscape:export-ydpi="300.07901" />
+    <rect
+       style="opacity:1;fill:#a0a0a0;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect1050"
+       width="50.656521"
+       height="83.525253"
+       x="-342.09262"
+       y="52.461079"
+       ry="1.8297548"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\vendingMachine.png"
+       inkscape:export-xdpi="242.491"
+       inkscape:export-ydpi="242.491" />
+    <rect
+       style="opacity:1;fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1272"
+       width="15.01652"
+       height="83.525253"
+       x="-306.45261"
+       y="52.461079"
+       ry="1.8297551"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\vendingMachine.png"
+       inkscape:export-xdpi="242.491"
+       inkscape:export-ydpi="242.491" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1315"
+       width="30.226339"
+       height="51.365452"
+       x="-339.77246"
+       y="54.910122"
+       ry="1.8297551"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\vendingMachine.png"
+       inkscape:export-xdpi="242.491"
+       inkscape:export-ydpi="242.491" />
+    <rect
+       style="opacity:1;fill:#717171;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1317"
+       width="29.96855"
+       height="19.399"
+       x="-339.64359"
+       y="112.1404"
+       ry="1.8297551"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\vendingMachine.png"
+       inkscape:export-xdpi="242.491"
+       inkscape:export-ydpi="242.491" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1319"
+       width="17.014402"
+       height="2.7068369"
+       x="-332.74759"
+       y="110.85141"
+       ry="1.3534185"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\vendingMachine.png"
+       inkscape:export-xdpi="242.491"
+       inkscape:export-ydpi="242.491" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -333.26318,124.32115 9.28057,-6.96044 8.37833,6.31595"
+       id="path2948"
+       inkscape:export-filename="D:\Projets\BlockJam\Assets\Evolution\Sprites\Machine\vendingMachine.png"
+       inkscape:export-xdpi="242.491"
+       inkscape:export-ydpi="242.491" />
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+using Kimeria.Nyx;
+using Kimeria.Nyx.Tools.BehaviourTree;
+
+namespace Evo.BT
+{
+    public class TaskGoToTarget : BaseNode
+    {
+        private Transform _transform;
+
+        public TaskGoToTarget(Creature c) : base(c)
+        {
+            _transform = c.transform;
+        }
+
+        public override NodeState Evaluate()
+        {
+            Creature target = (Creature) RootNode().GetData("target");
+            if (target == null)
+            {
+                RootNode().ClearData("target");
+                state = NodeState.FAILURE;
+                return state;
+            }
+
+            Vector3 dest = target.transform.position;
+            if (Vector3.Distance(_transform.position, dest) > 0.01f)
+            {
+                _transform.position = Vector3.MoveTowards(
+                    _transform.position, dest, creature.GetSpeed() * Time.deltaTime);
+            }
+
+            state = NodeState.RUNNING;
+            return state;
+        }
+
+    }
+}
+

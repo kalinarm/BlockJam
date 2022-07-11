@@ -1,0 +1,14 @@
+# Library
+
+Chainsafe SDK
+NFT Storage Unity
+
+# Assets (Free)
+
+Kenney Voice pack
+JMO Assets Cartoon free
+Sunshine Forest
+2D HandCrafted Art
+Freesound ( see name of file on git for credits)
+Beautiful Progress Bar
+Nyx ( basic code to kickstart project in unity)
